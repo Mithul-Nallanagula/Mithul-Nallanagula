@@ -84,7 +84,7 @@ When I'm not coding, you'll find me vibing to music or lifting at the gym.
 ## 📬 Contact Me
 
 - 📧 Email: **mithulnallanagula@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/mithulnallanagula](https://linkedin.com/in/mithulnallanagula)  
+- 💼 LinkedIn: [linkedin.com/in/mithulnallanagula](https://linkedin.com/in/mithul-nallanagula)  
 
 ---
 
