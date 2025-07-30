@@ -13,7 +13,7 @@ When I'm not coding, you'll find me vibing to music or lifting at the gym.
 - 👯 Open to collaborating on: `Scalable Web Apps`, `SaaS Platforms`, `Open Source Projects`  
 - 🤝 Looking for: Full Stack Developer roles, freelance work, or tech community involvement  
 - 💬 Tech Talk? Hit me up about: React, Node.js, REST APIs, CI/CD, JavaScript Ecosystem  
-- 📫 Let’s connect: **mithulnallanagula@example.com** | [LinkedIn ↗](https://www.linkedin.com/in/mithul-nallanagula)  
+- 📫 Let’s connect: **mithulnallanagula@gmail.com** | [LinkedIn ↗](https://www.linkedin.com/in/mithul-nallanagula)  
 - ⚡ Fun Fact: I build side projects to automate my life and love contributing to dev communities!
 
 ---
